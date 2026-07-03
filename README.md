@@ -7,3 +7,4 @@ Current videos avaiable
 (CLICK ON THE NAMES UNDER THE README.MD AND THEN COPY AND PASTE THE LINK ONTO YOUR SEARCH BAR TO WATCH THE UNLISTED YOUTUBE VIDEOS)
 
 1) Snap! WP_Sequencing Explanation Video (Show What You Know: Explain Your Program)
+2) Snap! WP_Repeats Explanation Video (Show What You Know: Explain Your Program)

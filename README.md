@@ -8,3 +8,4 @@ Current videos avaiable
 
 1) Snap! WP_Sequencing Explanation Video (Show What You Know: Explain Your Program)
 2) Snap! WP_Repeats Explanation Video (Show What You Know: Explain Your Program)
+3) Repeat Animal Parade - Teaching Programming Portfolio Lesson Plan

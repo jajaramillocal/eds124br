@@ -11,3 +11,4 @@ Current videos avaiable
 3) Repeat Animal Parade - Teaching Programming Portfolio Lesson Plan
 4) Snap! WP_Repeats NestedLoops Video (Show What You Know: Explain Your Program)
 5) Snap! WP_Repeats Events Video (Show What You Know: Explain Your Program)
+6) Snap! WP_Repeats Variables Video (Show What You Know: Explain Your Program)

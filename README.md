@@ -14,3 +14,6 @@ Current videos avaiable
 6) Snap! WP_Variables Explanation Video (Show What You Know: Explain Your Program)
 7) Snap! WP_Ifs Explanation Video (Show What You Know: Explain Your Program)
 8) Snap! WP_ConditionalLoops Video (Show What You Know: Explain Your Program)
+9) Snap! WP_Nested_If_Else Video (Show What You Know: Explain Your Program)
+10) Snap! WP_Compound_Conditionals Video (Show What You Know: Explain Your Program)
+
